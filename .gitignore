@@ -1,0 +1,4 @@
+## gitignore du repertoire WEBAPP
+WEB-INF/
+static/
+restxq.xqm
