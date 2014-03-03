@@ -14,7 +14,7 @@ function fact:accueil($pays as xs:string) {
     };
 
 
-
+(: première modif dans test :)
 
 declare function fact:template($fonction, $titre) as element(Q{http://www.w3.org/1999/xhtml}html) { 
   <html xmlns="http://www.w3.org/1999/xhtml">
